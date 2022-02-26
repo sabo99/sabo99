@@ -9,16 +9,15 @@
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
--   👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
--   🧑 My resume available at **[My Resume](https://sabo-profile.000webhostapp.com/resume)**
--   🧑 My profile available at **[My Profile](https://sabo-profile.net/)**
--   👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/sabo99)**
+- 🧑 My profile available at **[My Profile](https://sabo-profile.net/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sabo-profile.net/my-works)**
 <!-- **[My Portfolio](https://subhamraoniar.com)** -->
 
--   📫 How to reach me **alvin.set25@gmail.com**
+- 📫 How to reach me **alvin.set25@gmail.com**
 
--   ⚡ Fun fact **I really like playing games in my spare time and learn a lot about developer programmer**
+- ⚡ Fun fact **I really like playing games in my spare time and learn a lot about developer programmer**
 
 ## 🚀 Languages and Tools:
 
