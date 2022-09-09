@@ -65,6 +65,9 @@
 <br/>
 <br/>
 
+## Support Me 
+<a href = "https://www.paypal.com/paypalme/sabohao"><img src="https://img.icons8.com/color/48/000000/paypal.png"/></a>
+
 ## Connect with me:
 
 <p align="left">
@@ -73,10 +76,6 @@
 <a href = "https://www.instagram.com/alvins.pdf/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-## Support Me 
-<a href = "https://www.paypal.com/paypalme/sabohao"><img src="https://img.icons8.com/color/48/000000/paypal.png"/></a>
-
 
 ## ❤ Views and Followers
 
