@@ -85,3 +85,7 @@
     <img src="https://komarev.com/ghpvc/?username=sabo99">
 </a>
 <a href="https://github.com/sabo99?tab=followers"><img src="https://img.shields.io/github/followers/sabo99?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
+
+<img src="./kururin-kuru-kuru.gif" alt="kuru-kuru-kururin"/>
