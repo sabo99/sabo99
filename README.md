@@ -62,11 +62,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sabo99/github-readme-activity-graph"><img alt="Sabo Hao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabo99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Support Me 
 <a href = "https://www.paypal.com/paypalme/sabohao"><img src="https://img.icons8.com/color/48/000000/paypal.png"/></a>
 
@@ -86,6 +81,3 @@
 </a>
 <a href="https://github.com/sabo99?tab=followers"><img src="https://img.shields.io/github/followers/sabo99?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br>
-
-<img src="./kururin-kuru-kuru.gif" alt="kuru-kuru-kururin"/>
