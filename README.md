@@ -11,8 +11,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🧑 My profile available at **[My Profile](https://gregarious-plaster-fac.notion.site/Alvin-Setiawan-Portfolio-5b68fb5a07b34f44b17aee9e9a091b50)**
-- 👨‍💻 All of my projects are available at **[My Projects](https://gregarious-plaster-fac.notion.site/My-Projects-06c1452619304351b42e4133d6fbb748)**
+- 🧑 My profile available at **[My Profile](https://bit.ly/alvin-setiawan-portfolio)**
+- 👨‍💻 All of my projects are available at **[My Projects](https://alvinsetiawan-portfolio.notion.site/My-Projects-06c1452619304351b42e4133d6fbb748)**
 <!-- **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **ofc.alvnstwan@gmail.com**
